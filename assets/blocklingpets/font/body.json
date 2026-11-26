@@ -1,0 +1,33 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        " ": 3
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "blocklingpets:font/body.png",
+      "height": 12,
+      "ascent": 9,
+      "chars": [
+        "!\"#$%&'()*+,-./0",
+        "123456789:;<=>?@",
+        "ABCDEFGHIJKLMNOP",
+        "QRSTUVWXYZ[\\]^_`",
+        "abcdefghijklmnop",
+        "qrstuvwxyz{|}~ÀÂ",
+        "ÄÆÇÈÉÊËÎÏÔÖŒÙÛÜŸ",
+        "àâäæçèéêëîïôöœùû",
+        "üÿ«»°·’…€×—–•≈∞‰",
+        "ñÑ¡¿ßáíóúÁÍÓÚ²³±",
+        "÷\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      ]
+    },
+    {
+      "type": "reference",
+      "id": "minecraft:default"
+    }
+  ]
+}
