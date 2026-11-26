@@ -1,0 +1,34 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        " ": 2,
+        " ": 2,
+        " ": 1
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "marketclient:font/label.png",
+      "height": 9,
+      "ascent": 7,
+      "chars": [
+        "!\"#$%&'()*+,-./0",
+        "123456789:;<=>?@",
+        "ABCDEFGHIJKLMNOP",
+        "QRSTUVWXYZ[\\]^_`",
+        "abcdefghijklmnop",
+        "qrstuvwxyz{|}~ÀÂ",
+        "ÄÇÉÈÊËÎÏÔÖÙÛÜŸàâ",
+        "äçéèêëîïôöùûüÿŒœ",
+        "Ææ×÷±°«»‹›–—…’‘“",
+        "”•·€£\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      ]
+    },
+    {
+      "type": "reference",
+      "id": "minecraft:default"
+    }
+  ]
+}
